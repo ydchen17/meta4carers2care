@@ -1,6 +1,6 @@
 # README
 
-This repository contains the code and data used for the following paper:
+This repository contains part of the code and data used for the following paper:
 
 - Effectiveness of interventions to support carers of people with dementia in low- and middle-income countries: A systematic review and meta-analysis
 
