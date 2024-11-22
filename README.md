@@ -6,7 +6,7 @@ This repository contains part of the code and data used for the following paper:
 
 ## Overview
 
-The analysis for this study was conducted in mid-2023. The code and data provided in this repository are shared with the hope that they may be helpful for researchers and practitioners in the field. However, they are distributed without any warranty, including but not limited to the implied warranties of merchantability or fitness for a particular purpose.
+The analysis for this study was conducted in mid-2023. The code and data provided in this repository are shared with the hope that they may be helpful for researchers and practitioners in the field. 
 
 ## Files
 
