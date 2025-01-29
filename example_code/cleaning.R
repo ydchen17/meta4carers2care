@@ -101,7 +101,7 @@ reserved_cols <- c('Ctrl_Post_mean', 'Ctrl_Post_SD', 'Ctrl_Post_N', 'Expt_Post_m
                    'Expt_Post_N', 'Study.Identifier')
 es_df.md.data <- es_df.md[reserved_cols]
 
-row_SMD <- function(row_data) {
+row_MD <- function(row_data) {
   transformed <- esc_mean_sd(
     grp1m = as.numeric(row_data[1]), grp1sd = as.numeric(row_data[2]), grp1n = as.numeric(row_data[3]), 
     grp2m = as.numeric(row_data[4]), grp2sd = as.numeric(row_data[5]), grp2n = as.numeric(row_data[6]), 
@@ -111,8 +111,8 @@ row_SMD <- function(row_data) {
   return(df)
 }
 
-# Apply row_SMD function to MD data
-es_df.md.SMD <- do.call('rbind', apply(es_df.md.data, 1, row_SMD))
+# Apply row_MD function to MD data
+es_df.md.SMD <- do.call('rbind', apply(es_df.md.data, 1, row_MD))
 es_df.md$mean.effect <- -es_df.md.SMD$es
 es_df.md$variance <- es_df.md.SMD$var
 es_df.md$standard_error <- es_df.md.SMD$se
