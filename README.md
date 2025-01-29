@@ -2,7 +2,7 @@
 
 This repository contains part of the code and data used for the following paper:
 
-- Effectiveness of interventions to support carers of people with dementia in low- and middle-income countries: A systematic review and meta-analysis
+- Effectiveness of interventions to support carers of people with dementia in low- and middle-income countries: A systematic review and meta-analysis (Accepted to _International Journal of Geriatric Psychiatry_ on 23 January 2025)
 
 ## Overview
 
@@ -16,6 +16,10 @@ Example code:
 
 Example data:
 - Templete Excel datasheet.
+
+## Data 
+
+We only provided the example data. Please consult the [STRiDE](https://stride-dementia.org) Consortisium (stride.dementia@lse.ac.uk) for full data access.
 
 ## Disclaimer
 
