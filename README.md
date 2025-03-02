@@ -2,7 +2,7 @@
 
 This repository contains part of the code and data used for the following paper:
 
-- Effectiveness of interventions to support carers of people with dementia in low- and middle-income countries: A systematic review and meta-analysis (Accepted to _International Journal of Geriatric Psychiatry_ on 23 January 2025)
+- Chen, Frank; Hu, Zhiwei; Li, Quan; Zheng, Xuan; Li, Meizhi; Salcher-Konrad, Maximilian; Comas-Herrera, Adelina; Knapp, Martin; Shi, Cheng; The STRiDE Consortium (2025). "[Effectiveness of Interventions to Support Carers of People With Dementia in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis](https://onlinelibrary.wiley.com/doi/10.1002/gps.70054)". International Journal of Geriatric Psychiatry. 40 (3): e70054.
 
 ## Overview
 
