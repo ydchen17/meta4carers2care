@@ -4,7 +4,7 @@ This repository contains code and example data supporting the study:
 
 > Chen, Frank; Hu, Zhiwei; Li, Quan; Zheng, Xuan; Li, Meizhi; Salcher-Konrad, Maximilian; Comas-Herrera, Adelina; Knapp, Martin; Shi, Cheng; The STRiDE Consortium (2025). "[Effectiveness of Interventions to Support Carers of People With Dementia in Low- and Middle-Income Countries: A Systematic Review and Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/40015952/)". *International Journal of Geriatric Psychiatry*, 40(3), e70054.
 
-## Key Points
+## Key Findings
 
 1. Despite the significant increase in dementia research in low‐ and middle‐income countries (LMICs), evidence from high‐quality randomised controlled trials (RCTs) remained limited.
 2. Existing interventions in LMICs target one or more of three main objectives: improving knowledge about dementia, reducing care dependency, and enhancing carers' mental health.
